@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GalynaBenitsky
-- 👀 I’m interested in learning new things, traveling and exploring our planet and find beauty in a small things.
+- 👀 I’m interested in learning new things, traveling/exploring our planet and find beauty in a small things.
 - 🌱 I’m currently learning Angular
 
 
